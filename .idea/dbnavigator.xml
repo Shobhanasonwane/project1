@@ -57,9 +57,7 @@ VALUES(5,puja,puja@gmail.com,909990);]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="fb050820-c629-435e-8df4-e51d88727144" object-ref="consoles/Connection" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="fb050820-c629-435e-8df4-e51d88727144" />

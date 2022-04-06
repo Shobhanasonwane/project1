@@ -1,9 +1,9 @@
 from django.forms import ModelForm
-from.models import student,Employee
+from.models import Student,Employee
 
 class StudentForms (ModelForm):
     class Meta:
-        model=student
+        model=Student
         fields='__all__'
 
 
